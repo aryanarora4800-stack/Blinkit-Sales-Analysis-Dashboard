@@ -1,6 +1,8 @@
 # Blinkit-Sales-Analysis-Dashboard
 This project provides a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution. The goal was to identify key insights and optimization opportunities by leveraging various KPIs and data visualizations in Power BI.
 
+![Blinkit Dashboard Screenshot](Screenshot 2026-03-28 184618.png)
+
 **Data Processing (Excel)**
 
 Data Cleaning: Handled missing values and inconsistent naming conventions in the "Item Type" and "Fat Content" columns.
