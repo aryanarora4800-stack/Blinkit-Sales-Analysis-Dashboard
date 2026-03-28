@@ -35,3 +35,5 @@ Location Trends: Tier 3 locations lead in sales volume compared to Tier 1 and Ti
 Microsoft Excel: For data cleaning and initial exploration.
 
 Power BI: For data modeling, DAX calculations, and interactive dashboarding.
+
+**CREDITS - Swapnjeet S (https://youtu.be/mmxVCFceQgU?si=2NRIjkRUL1fdvY9B)**
